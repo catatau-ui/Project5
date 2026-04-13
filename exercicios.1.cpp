@@ -9,7 +9,7 @@ int cateto(int a, int b)
 int perguntar()
 {
 	int a, int b;
-	cout << "Digite o valor dos dois catetos menores de um triangulo: aaaaaaaaaa";
+	cout << "Digite o valor dos dois catetos menores de um triangulo: aaaaaaaaaaaaaa";
 	cin >> a >> b;
 	return cateto(a, b);
 }
