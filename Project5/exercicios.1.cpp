@@ -27,7 +27,7 @@ void win(int a, int b, int answer, int& score_user, int& score_computer)
 	{
 		if (answer == 0)
 		{
-			cout << "User wins! (sum is evenn)" << endl;
+			cout << "User wins! (sum is even)" << endl;
 			score_user++;
 		}
 		else
